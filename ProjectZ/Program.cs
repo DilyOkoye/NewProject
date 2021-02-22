@@ -8,6 +8,8 @@ namespace ProjectZ
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Dili!");
+            string value = "Dili";
         }
     }
 }
